@@ -3,8 +3,6 @@ title: "Path of Exile Sentinel League"
 created: "2022-05-13T17:15:51.838Z"+
 layout: page
 title: "PAGE TITLE"
-permalink: poe2
-filename: poe
 ---
 
 # Path of Exile Sentinel League
