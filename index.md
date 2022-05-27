@@ -1,7 +1,9 @@
 # mdfiles
 Markdown files to share
 - [index](index.md)
-- [PoE](<Path of Exile Sentinel League.md>)
+- [PoE](<Path of Exile Sentinel League>)
+- [PoE test2](poe)
+- [PoE test3](_posts/2022-05-27-post)
 - [yaml](_config.yml)
 
 
