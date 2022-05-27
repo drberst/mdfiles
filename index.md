@@ -9,7 +9,7 @@ Markdown files to share
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{/mdfiles/post.url }}">{{ post.title }}</a>
+      <a href="/mdfiles/{{post.url}}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
