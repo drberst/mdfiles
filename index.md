@@ -6,6 +6,13 @@ Markdown files to share
 - [PoE test3](_posts/2022-05-27-post)
 - [yaml](_config.yml)
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="/github-pages-with-jekyll{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 ## Welcome to GitHub Pages
 
