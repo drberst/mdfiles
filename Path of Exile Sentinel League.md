@@ -4,6 +4,7 @@ created: "2022-05-13T17:15:51.838Z"+
 layout: page
 title: "PAGE TITLE"
 filename: path-of-exile
+permalink: /mdfiles/URL-PATH/
 ---
 
 # Path of Exile Sentinel League
